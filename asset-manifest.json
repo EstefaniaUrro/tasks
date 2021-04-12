@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/taskspm%20install%20react%20react-dom%20--save/static/css/main.f147e6d0.chunk.css",
-    "main.js": "/taskspm%20install%20react%20react-dom%20--save/static/js/main.22d26930.chunk.js",
-    "main.js.map": "/taskspm%20install%20react%20react-dom%20--save/static/js/main.22d26930.chunk.js.map",
-    "runtime-main.js": "/taskspm%20install%20react%20react-dom%20--save/static/js/runtime-main.e65ee245.js",
-    "runtime-main.js.map": "/taskspm%20install%20react%20react-dom%20--save/static/js/runtime-main.e65ee245.js.map",
-    "static/js/2.1e436ad6.chunk.js": "/taskspm%20install%20react%20react-dom%20--save/static/js/2.1e436ad6.chunk.js",
-    "static/js/2.1e436ad6.chunk.js.map": "/taskspm%20install%20react%20react-dom%20--save/static/js/2.1e436ad6.chunk.js.map",
-    "static/js/3.c06856f5.chunk.js": "/taskspm%20install%20react%20react-dom%20--save/static/js/3.c06856f5.chunk.js",
-    "static/js/3.c06856f5.chunk.js.map": "/taskspm%20install%20react%20react-dom%20--save/static/js/3.c06856f5.chunk.js.map",
-    "index.html": "/taskspm%20install%20react%20react-dom%20--save/index.html",
-    "static/css/main.f147e6d0.chunk.css.map": "/taskspm%20install%20react%20react-dom%20--save/static/css/main.f147e6d0.chunk.css.map",
-    "static/js/2.1e436ad6.chunk.js.LICENSE.txt": "/taskspm%20install%20react%20react-dom%20--save/static/js/2.1e436ad6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/taskspm%20install%20react%20react-dom%20--save/static/media/logo.6ce24c58.svg"
+    "main.css": "/tasks/static/css/main.f147e6d0.chunk.css",
+    "main.js": "/tasks/static/js/main.22d26930.chunk.js",
+    "main.js.map": "/tasks/static/js/main.22d26930.chunk.js.map",
+    "runtime-main.js": "/tasks/static/js/runtime-main.7d273bde.js",
+    "runtime-main.js.map": "/tasks/static/js/runtime-main.7d273bde.js.map",
+    "static/js/2.1e436ad6.chunk.js": "/tasks/static/js/2.1e436ad6.chunk.js",
+    "static/js/2.1e436ad6.chunk.js.map": "/tasks/static/js/2.1e436ad6.chunk.js.map",
+    "static/js/3.c06856f5.chunk.js": "/tasks/static/js/3.c06856f5.chunk.js",
+    "static/js/3.c06856f5.chunk.js.map": "/tasks/static/js/3.c06856f5.chunk.js.map",
+    "index.html": "/tasks/index.html",
+    "static/css/main.f147e6d0.chunk.css.map": "/tasks/static/css/main.f147e6d0.chunk.css.map",
+    "static/js/2.1e436ad6.chunk.js.LICENSE.txt": "/tasks/static/js/2.1e436ad6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tasks/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e65ee245.js",
+    "static/js/runtime-main.7d273bde.js",
     "static/js/2.1e436ad6.chunk.js",
     "static/css/main.f147e6d0.chunk.css",
     "static/js/main.22d26930.chunk.js"
