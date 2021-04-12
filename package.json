@@ -1,7 +1,7 @@
 -1,55 +0,0 @@
 {
-  "homepage": "https://estefaniaurro.github.io/tareas",
-  "name": "tareas",
+  "homepage": "https://estefaniaurro.github.io/tasks",
+  "name": "tasks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,16 +41,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EstefaniaUrro/estefaniaurro.github.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EstefaniaUrro/estefaniaurro.github.io/issues"
   }
 }
